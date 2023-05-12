@@ -1,5 +1,5 @@
 [[module.imports]]
-path = "github.com/hbstack/hb"
+path = "github.com/bdmeter/hb"
 
 [[module.imports]]
 path = "github.com/hugomods/base"
