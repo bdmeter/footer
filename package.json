@@ -1,14 +1,14 @@
 {
-  "name": "HB Footer Module",
-  "homepage": "https://github.com/hbstack/footer",
+  "name": "Bdmeter Footer Module",
+  "homepage": "https://github.com/bdmeter/footer",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hbstack/footer.git"
+    "url": "git+https://github.com/bdmeter/footer.git"
   },
-  "author": "Razon Yang <razonyang@gmail.com>",
+  "author": "47 Ronin <ronibd0@gmail.com>",
   "bugs": {
-    "url": "https://github.com/hbstack/footer/issues"
+    "url": "https://github.com/bdmeter/footer/issues"
   },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^5.52.0",
